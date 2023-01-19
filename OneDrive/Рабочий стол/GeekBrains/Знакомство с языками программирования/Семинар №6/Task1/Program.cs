@@ -43,3 +43,5 @@ int[] array = CreateArray(5, 1, 10);
 PrintArray(array);
 ReverseArray(array);
 PrintArray(array);
+Array.Reverse(array);
+PrintArray(array);
